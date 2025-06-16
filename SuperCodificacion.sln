@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperCodificacion", "SuperCodificacion\SuperCodificacion.csproj", "{F96F4DF3-EF24-4B8C-8567-08E0B06B0EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96F4DF3-EF24-4B8C-8567-08E0B06B0EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96F4DF3-EF24-4B8C-8567-08E0B06B0EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96F4DF3-EF24-4B8C-8567-08E0B06B0EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96F4DF3-EF24-4B8C-8567-08E0B06B0EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4945F917-8874-41CF-9952-6A1D413389B4}
+	EndGlobalSection
+EndGlobal
