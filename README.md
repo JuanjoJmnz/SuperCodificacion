@@ -1,5 +1,5 @@
 
-# Super Codificacion
+# Super Codificacion 🧠🔤
 
 Este proyecto es una aplicación de consola en C# que permite codificar y descodificar ficheros de texto mediante un algoritmo de encriptación personalizado.
 
@@ -20,7 +20,7 @@ El proceso de decodificación invierte paso a paso estas operaciones para recupe
 
 ---
 
-## Uso
+## Uso 🚀
 
 1. Ejecuta la aplicación en consola.
 2. Selecciona si deseas **codificar (c)** o **descodificar (d)** un fichero.
@@ -33,14 +33,14 @@ Ejemplo: `texto.txt` → `texto_codificado.txt` o `texto_descodificado.txt`
 
 ---
 
-## Requisitos
+## Requisitos 🛠️
 
 - .NET SDK (versión 6.0 o superior recomendada)
 - Sistema operativo compatible con .NET (Windows, Linux, macOS)
 
 ---
 
-## Estructura del código
+## Estructura del código 📁
 
 - **Codificar(string fichero)**: Lee el fichero original y genera el fichero codificado.
 - **Descodificar(string fichero)**: Lee un fichero codificado y genera el fichero descodificado original.
@@ -77,7 +77,7 @@ Después de descodificarlo, recuperamos el original.
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap 🗺️ 
 
 - [x] Leer archivo de entrada desde consola  
 - [x] Escribir archivo de salida con texto codificado/descodificado  
@@ -99,11 +99,11 @@ Después de descodificarlo, recuperamos el original.
 
 ---
 
-## 🙋 Autor
+## Autor 🙋
 
 Proyecto desarrollado por [Juan José Jiménez Gil](https://github.com/JuanjoJmnz), 2025
 
-## 📄 Licencia
+## Licencia 📄
 
 Este proyecto está licenciado bajo los términos de la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
